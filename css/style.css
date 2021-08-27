@@ -82,7 +82,7 @@ margin: 10px;
 
 #login-form{
 position: absolute;
-top: 40%;
+top: 45%;
 left: 50%;
 transform: translate(-50%,-50%);
 z-index: 2;
@@ -90,6 +90,9 @@ text-align: center;
 font-size: 15px;
 color: white;
 opacity: 60%;
+}
+#login-form input {
+  text-align: center;
 }
 #greeting{
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
